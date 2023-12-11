@@ -45,3 +45,6 @@ Sure, let's break down the project into tasks. Here's a high-level overview of h
     - Provide any necessary training to end-users.
 
 Throughout the process, be sure to communicate with the team and seek clarification on any ambiguities. Now, let's start by setting up the development environment and creating the basic structure of our project.
+
+
+MongoDb Server run command  cd C:\Program Files\MongoDB\Server\7.0\bin
